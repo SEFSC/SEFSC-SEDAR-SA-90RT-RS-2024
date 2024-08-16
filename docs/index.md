@@ -3,7 +3,7 @@
 
 + [Project schedule](http://sedarweb.org/docs/supp/S81_schedule_v5.pdf)
 + [Terms of Reference](http://sedarweb.org/docs/supp/S81%20Gulf%20Spanish_TORS_v3.pdf)
-+ [Previous Assessment](http://sedarweb.org/docs/sar/S28%20SAR_GoM.SpMack_4.24.2013.pdf)
++ [Previous Assessment (SEDAR 73, 201)](http://sedarweb.org/docs/sar/S28%20SAR_GoM.SpMack_4.24.2013.pdf)
 
 **Species**:
 Red Snapper (*Lutjanus campechanus*; [ITIS=168853](https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=168853#null))
