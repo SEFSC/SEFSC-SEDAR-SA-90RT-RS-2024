@@ -6,13 +6,11 @@
 + [Previous Assessment](http://sedarweb.org/docs/sar/S28%20SAR_GoM.SpMack_4.24.2013.pdf)
 
 **Species**:
-Common name (*Scientific name*; [ITIS=XXXXXX](https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=172436#null))
-Include any species groups to be included for specific datasets (e.g. all mackerels for TIP, unclassified mackerels for landings, etc.)
+Red Snapper (*Lutjanus campechanus*; [ITIS=168853](https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=168853#null))
 
-![](spp.png)
+![red snapper](https://github.com/user-attachments/assets/a57c0f7e-d709-4730-9335-ce5381062f02)
 
-**Topical Working Groups**:
-Describe and link any documents related to Topical Working Groups.
+**Topical Working Groups**: none
 
 **Year range**: YYYY-YYYY (Previous Assessment: YYYY-YYYY)
 
