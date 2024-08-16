@@ -1,20 +1,13 @@
 # [SEDAR 90](https://sedarweb.org/) South Atlantic Red Snapper Research Track
 Species: Red Snapper (*Lutjanus campechanus*; [ITIS-168853](https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=168853#null))
 
+![red snapper](https://github.com/user-attachments/assets/5c4cb230-4b74-476f-8d5c-40da7cbfa29a)
 
-# [Stock Structure and Assessment Details](https://sefsc.github.io/SEFSC-SEDAR-Template/) 
-
+Topical Working Groups: none
 
 [**Personnel Plan**] ADD WHEN READY
 
-## Instructions for public facing information
-Information within the './docs/' folder is used to create the public-facing website.
-+ Upload a picture of your species and an image of SS data sources to the *./docs/* folder, and name them *spp.png* and *data_plot.png*, respectively.
-+ Update all links to the Current SEDAR Assessment, Project Schedule, Terms of Reference, and Previous Assessment within *./docs/index.md*
-+ Use the FINAL assessment report and R Drive inputs to build the Assessment Details within *./docs/index.md*
-    + This should be completed prior to the Data Scoping Call or Email
-    + Send a link to the completed public-facing page to the SEFSC SEDAR Data Coordinator to streamline the data request
-
+# [Stock Structure and Assessment Details](https://sefsc.github.io/SEFSC-SEDAR-Template/) 
 
 ## Disclaimer
 
