@@ -16,6 +16,8 @@ Describe and link any documents related to Topical Working Groups.
 
 **Year range**: YYYY-YYYY (Previous Assessment: YYYY-YYYY)
 
+**Conversions**:
+
 **Commercial**:  
   + *Boundary*: Statistical grids 1-21, North of US Highway 1 in the Florida Keys and North of the boundary line that extends from Key West to the Dry Tortugas
       + Specify subareas 744.001, 748.001, etc.
@@ -42,7 +44,7 @@ Describe and link any documents related to Topical Working Groups.
 
 **Length Bins and Units**: 4 cm fork length (FL) - 100 cm FL in 2 cm bins (indicate if lower inclusive or midpoints are requested--currently, GM is lower inclusive and SA is midpoint)
 
-**Ages**: 0-11 years with 11 as plus group for compositions
+**Ages**: 0-11 years with 11 as plus group for compositions (one age per fish)
 
 **Data Overview from Previous Assessment**:
 
