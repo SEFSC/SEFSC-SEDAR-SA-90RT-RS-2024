@@ -1,9 +1,9 @@
 
-# [SEDAR XX](http://sedarweb.org/sedar-81) South Atlantic Red Snapper Research Track
+# [SEDAR 90](update when out) South Atlantic Red Snapper Research Track
 
-+ [Project schedule](http://sedarweb.org/docs/supp/S81_schedule_v5.pdf)
-+ [Terms of Reference](http://sedarweb.org/docs/supp/S81%20Gulf%20Spanish_TORS_v3.pdf)
-+ [Previous Assessment (SEDAR 73, 2019)](http://sedarweb.org/docs/sar/S28%20SAR_GoM.SpMack_4.24.2013.pdf)
++ [Project schedule](update when out
++ [Terms of Reference](update when out
++ [Previous Assessment (SEDAR 73, 2019)](https://sedarweb.org/assessments/sedar-73/)
 
 **Species**:
 Red Snapper (*Lutjanus campechanus*; [ITIS=168853](https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=168853#null))
