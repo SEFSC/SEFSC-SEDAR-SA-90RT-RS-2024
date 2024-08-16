@@ -1,16 +1,11 @@
-# [SEDAR XX](https://sedarweb.org/) __Region__ *Species* Assessment Type
-This repository is for NMFS SEFSC SEDAR Assessment Coordination.  The project boards contain internal discussions and documentation of decisions for both project management and assessment development.  
+# [SEDAR 90](https://sedarweb.org/) South Atlantic Red Snapper Research Track
+Species: Red Snapper (*Lutjanus campechanus*; [ITIS-168853](https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&search_value=168853#null))
+
 
 # [Stock Structure and Assessment Details](https://sefsc.github.io/SEFSC-SEDAR-Template/) 
-This page is **public-facing** and can be edited within the '*./docs/index.md*' file.  This page is used for disseminating information on assessment details including fleet structure, stock boundaries, gear aggregations, length bin size, and age/length plus groups.  All information needed to provide data for this assessment should be included here.
 
-[**Personnel Plan**](https://docs.google.com/spreadsheets/d/1NamoaXOazPhTe7PZMEC9icOqPoapWxlHaW3HdZOazvw/edit?usp=sharing): This internal document is used to track assessment participants.
 
-# Using This Template
-
-**When using this template, name your repository as SEFSC-SEDAR-REG-XXAT-SPP-YYYY, where XX is the SEDAR number, REG is the region, AT is the Assessment Type (RT, OA, etc.), SPP is the species following [S Drive standard abbreviations](https://docs.google.com/spreadsheets/d/1NJAwi4K8KMUhWrjzzzdYmu9Y8AE5CCW4z5OZAKWHub8/edit#gid=0), and YYYY is the [terminal year of the assessment](https://drive.google.com/drive/folders/1glAAbe-fpfj-os5kNJ5nQopdcajfF94s).**
-
-*Please edit all relevant information and ALL links in this 'README.md' to match your repository and assessment before moving on to edit 'docs/index.md' for assessment details.  This page will not require further editing, whereas the assessment details, including schedule links, may need to be updated throughout the assessment.* 
+[**Personnel Plan**] ADD WHEN READY
 
 ## Instructions for public facing information
 Information within the './docs/' folder is used to create the public-facing website.
