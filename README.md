@@ -7,7 +7,7 @@ Topical Working Groups: none
 
 [**Personnel Plan**] ADD WHEN READY
 
-# [Stock Structure and Assessment Details](https://sefsc.github.io/SEFSC-SEDAR-Template/) 
+# [Stock Structure and Assessment Details](https://sefsc.github.io/SEFSC-SEDAR-SA-90RT-RS-2024/)
 
 ## Disclaimer
 
