@@ -1,5 +1,5 @@
 
-# [SEDAR XX](http://sedarweb.org/sedar-81) Region *Species* Assessment Type
+# [SEDAR XX](http://sedarweb.org/sedar-81) South Atlantic Red Snapper Research Track
 
 + [Project schedule](http://sedarweb.org/docs/supp/S81_schedule_v5.pdf)
 + [Terms of Reference](http://sedarweb.org/docs/supp/S81%20Gulf%20Spanish_TORS_v3.pdf)
