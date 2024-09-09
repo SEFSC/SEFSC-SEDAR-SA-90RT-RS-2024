@@ -46,7 +46,7 @@ Red Snapper (*Lutjanus campechanus*; [ITIS=168853](https://www.itis.gov/servlet/
 
 **Data Overview from Previous Assessment**:
 
-![](data_plot.png)
+![](UPDATE
 
 
 **Points of Contact**
