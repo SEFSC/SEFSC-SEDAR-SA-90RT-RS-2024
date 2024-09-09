@@ -1,8 +1,8 @@
 
-# [SEDAR 90](update when out) South Atlantic Red Snapper Research Track
+# [SEDAR 90](https://sedarweb.org/assessments/sedar-90-south-atlantic-red-snapper/) South Atlantic Red Snapper Research Track Assessment
 
-+ [Project schedule](update when out
-+ [Terms of Reference](update when out
++ [Project schedule](https://sedarweb.org/documents/sedar-90-south-atlantic-red-snapper-project-schedule-pdf/)
++ [Terms of Reference](https://sedarweb.org/documents/sedar-90-south-atlantic-red-snapper-terms-of-reference-pdf/)
 + [Previous Assessment (SEDAR 73, 2019)](https://sedarweb.org/assessments/sedar-73/)
 
 **Species**:
