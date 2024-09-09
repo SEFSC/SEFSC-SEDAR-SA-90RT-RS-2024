@@ -28,7 +28,7 @@ Red Snapper (*Lutjanus campechanus*; [ITIS=168853](https://www.itis.gov/servlet/
 
 **Indices**:  
   + *Commercial Handline*: UPDATE
-  + *FHeadboat Index*: UPDATE
+  + *Headboat Index*: UPDATE
   + *Headboat Discards*: UPDATE    
   + *SRFS Vidio Index*: UPDATE
   + *SRFS Chevron Trap*: UPDATE
