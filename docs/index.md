@@ -19,12 +19,12 @@ Red Snapper (*Lutjanus campechanus*; [ITIS=168853](https://www.itis.gov/servlet/
 **Commercial**:  
   + *Boundary*: Statistical grids 1-21, North of US Highway 1 in the Florida Keys and North of the boundary line that extends from Key West to the Dry Tortugas UPDATE
   + *Fleet structure*: (1) Commercial Handline (2) Other gears were pooled with Commercial Handline
-  + *Landings units*: Number of fish
+  + *Landings units*: Provide commercial landings and discards in pounds and numbers
 
 **Recreational**:  
   + *Boundary*: Gulf of Mexico states from Texas to the Florida Keys at the Dade-Monroe County line UPDATE
   + *Fleet structure*: (1) Headboat (2) Gen Rec (private and charter modes)
-  + *Landings units*: Number of fish
+  + *Landings units*: Provide recreational landings and discards in pounds and numbers
 
 **Indices**:  
   + *Commercial Handline*: UPDATE
