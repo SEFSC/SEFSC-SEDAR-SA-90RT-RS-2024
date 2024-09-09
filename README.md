@@ -5,7 +5,7 @@ Species: Red Snapper (*Lutjanus campechanus*; [ITIS-168853](https://www.itis.gov
 
 Topical Working Groups: none
 
-[**Personnel Plan**] ADD WHEN READY
+[**Personnel Plan**](https://docs.google.com/spreadsheets/d/1MA3wB1VtwWwPtOwfwPHmNvKZrd0FDiF62dWk1QTOlq8/edit?gid=195906635#gid=195906635)
 
 # [Stock Structure and Assessment Details](https://sefsc.github.io/SEFSC-SEDAR-SA-90RT-RS-2024/)
 
