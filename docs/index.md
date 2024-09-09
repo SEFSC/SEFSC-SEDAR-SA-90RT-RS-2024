@@ -12,37 +12,33 @@ Red Snapper (*Lutjanus campechanus*; [ITIS=168853](https://www.itis.gov/servlet/
 
 **Topical Working Groups**: none
 
-**Year range**: YYYY-YYYY (Previous Assessment: YYYY-YYYY)
+**Year range**: YYYY-YYYY (Previous Assessment: YYYY-YYYY) UPDATE
 
-**Conversions**:
+**Conversions**: Parameters of growth and conversions (TL-WW) were treated as input to the assessment model
 
 **Commercial**:  
-  + *Boundary*: Statistical grids 1-21, North of US Highway 1 in the Florida Keys and North of the boundary line that extends from Key West to the Dry Tortugas
-      + Specify subareas 744.001, 748.001, etc.
-      + Include table of subareas to include? Particularly relevant for south Florida
-  + *Fleet structure*: (1) Commercial Gillnet (+ Other), (2) Commercial Handlines (+ Other)
-  ("Other" gears apportioned among Gillnet and Handline gears based on the annual proportions of landings by those two gears.)
-      + Specify if this aggregation holds for length and age compositions (or if other/unknown gears are excluded)
-      + Include table of fleet aggregations using FIN gear codes?
-  + *Landings units*: Pounds whole weight
+  + *Boundary*: Statistical grids 1-21, North of US Highway 1 in the Florida Keys and North of the boundary line that extends from Key West to the Dry Tortugas UPDATE
+  + *Fleet structure*: (1) Commercial Handline (2) Other gears were pooled with Commercial Handline
+  + *Landings units*: Number of fish
 
 **Recreational**:  
-  + *Boundary*: Gulf of Mexico states from Texas to the Florida Keys at the Dade-Monroe County line
-  + *Fleet structure*: (1) Recreational modes combined (Charter, Private, Shore and Headboat)  
-      + Where relevant, include distinction between shore/private as some surveys (LA Creel) do not distinguish between these modes  
-  + *Landings units*: Number of fish , pounds whole weight (indicate if one or both are requested)
+  + *Boundary*: Gulf of Mexico states from Texas to the Florida Keys at the Dade-Monroe County line UPDATE
+  + *Fleet structure*: (1) Headboat (2) Gen Rec (private and charter modes)
+  + *Landings units*: Number of fish
 
 **Indices**:  
   + *Commercial Handline*: UPDATE
-  + *FHeadboat Index*: UPDATE    
+  + *FHeadboat Index*: UPDATE
+  + *Headboat Discards*: UPDATE    
   + *SRFS Vidio Index*: UPDATE
+  + *SRFS Chevron Trap*: UPDATE
 
 
-**Composition Data Input Sample Sizes**: Number of trips, number of fish (indicate if one or both are requested)
+**Composition Data Input Sample Sizes**: Sample sizes (numbers of trips) of length compositions (len) or agec ompositions (age) by survey or fleet
 
-**Length Bins and Units**: 4 cm fork length (FL) - 100 cm FL in 2 cm bins (indicate if lower inclusive or midpoints are requested--currently, GM is lower inclusive and SA is midpoint)
+**Length Bins and Units**: Length compositions for all data sources were developed in 3-cm bins over the range 21–99 cm (labeled at bin center)
 
-**Ages**: 0-11 years with 11 as plus group for compositions (one age per fish)
+**Ages**: As in previous SEDAR assessments, the age-dependent estimates of Ma were rescaled to provide the same fraction of fish surviving from age 4 through the oldest observed age (51 yr) as would occur with constant M = 0.11
 
 **Data Overview from Previous Assessment**:
 
