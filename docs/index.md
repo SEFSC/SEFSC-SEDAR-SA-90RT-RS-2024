@@ -51,9 +51,11 @@ Red Snapper (*Lutjanus campechanus*; [ITIS=168853](https://www.itis.gov/servlet/
 
 **Points of Contact**
 
-*Lead Assessment Analyst:* Name, email
+*Lead Assessment Analyst:* Kyle Shertzer, kyle.shertzer@noaa.gov
 
-*Assessment Coordinator:* Name, email
+*Leas Assessment Analyst:* Matthew Vincent, matthew.vincent@noaa.gov
+
+*Assessment Coordinator:* Kelly Adler, kelly.adler@noaa.gov
 
 # Disclaimer
 
