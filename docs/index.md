@@ -10,7 +10,12 @@ Red Snapper (*Lutjanus campechanus*; [ITIS=168853](https://www.itis.gov/servlet/
 
 ![red snapper](https://github.com/user-attachments/assets/a57c0f7e-d709-4730-9335-ce5381062f02)
 
-**Topical Working Groups**: none
+**Data Workshop Groups**:
+  + Effort and Landings
+  + Social and Economy
+  + Life History
+  + Indices
+  + Environment and Industry 
 
 **Year range**: YYYY-YYYY (Previous Assessment: YYYY-YYYY) UPDATE
 
