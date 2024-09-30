@@ -17,7 +17,7 @@ Red Snapper (*Lutjanus campechanus*; [ITIS=168853](https://www.itis.gov/servlet/
   + Indices
   + Environment and Industry 
 
-**Year range**: YYYY-YYYY (Previous Assessment: YYYY-YYYY) UPDATE
+**Year range**: YYYY-2024 (Previous Assessment: YYYY-2019) UPDATE
 
 **Conversions**: Parameters of growth and conversions (TL-WW) were treated as input to the assessment model
 
