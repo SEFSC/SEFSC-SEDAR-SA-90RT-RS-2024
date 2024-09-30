@@ -32,11 +32,12 @@ Red Snapper (*Lutjanus campechanus*; [ITIS=168853](https://www.itis.gov/servlet/
   + *Landings units*: Provide recreational landings and discards in pounds and numbers
 
 **Indices**:  
-  + *Commercial Handline*: UPDATE
-  + *Headboat Index*: UPDATE
-  + *Headboat Discards*: UPDATE    
-  + *SRFS Vidio Index*: UPDATE
-  + *SRFS Chevron Trap*: UPDATE
+  + *Commercial Handline*: No update needed
+  + *Headboat Index*: No update needed
+  + *Headboat Discards - state data*: Juvenille index    
+  + *SRFS Video Index*: Combined?
+  + *SRFS Chevron Trap*: Combined?
+  + *Florida Hook and Line Index*: MARFIN funded
 
 
 **Composition Data Input Sample Sizes**: Sample sizes (numbers of trips) of length compositions (len) or agec ompositions (age) by survey or fleet
