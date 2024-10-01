@@ -11,11 +11,12 @@ Red Snapper (*Lutjanus campechanus*; [ITIS=168853](https://www.itis.gov/servlet/
 ![red snapper](https://github.com/user-attachments/assets/a57c0f7e-d709-4730-9335-ce5381062f02)
 
 **Data Workshop Groups**:
-  + Effort and Landings
-  + Social and Economy
+  + Commercial Landings
+  + Recreational Landings
   + Life History
   + Indices
-  + Environment and Industry 
+  + Social and Economic
+  + Environmental Considerations
 
 **Year range**: YYYY-2024 (Previous Assessment: YYYY-2019) UPDATE
 
